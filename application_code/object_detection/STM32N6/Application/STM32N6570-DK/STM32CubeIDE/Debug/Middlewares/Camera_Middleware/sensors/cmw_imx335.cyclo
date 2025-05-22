@@ -1,0 +1,17 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:291:13:CMW_IMX335_FrameEventCallback	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:110:9:CMW_IMX335_SetWBRefMode	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:129:9:CMW_IMX335_ListWBRefModes	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:88:16:CMW_IMX335_ReadID	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:192:16:CMW_IMX335_SetTestPattern	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:164:16:CMW_IMX335_GetSensorInfo	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:158:16:CMW_IMX335_SetMirrorFlip	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:147:16:CMW_IMX335_SetFramerate	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:142:16:CMW_IMX335_SetFrequency	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:98:16:CMW_IMX335_SetExposure	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:93:16:CMW_IMX335_SetGain	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:246:16:CMW_IMX335_Run	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:71:16:CMW_IMX335_DeInit	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:223:16:CMW_IMX335_Start	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:197:16:CMW_IMX335_Init	4
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:271:13:CMW_IMX335_VsyncEventCallback	4
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/cmw_imx335.c:295:5:CMW_IMX335_Probe	3

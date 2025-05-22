@@ -1,0 +1,12 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:14:11:vision_models_sigmoid_f	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:20:6:vision_models_softmax_f	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:40:11:overlap	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:52:11:box_intersection	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:62:11:box_union	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:70:11:vision_models_box_iou	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:81:9:twice_overlap_int	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:93:9:box_intersection_is8	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:103:9:box_union_is8	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:111:11:vision_models_box_iou_is8	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:124:6:transpose_flattened_2D	4
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/vision_models_pp.c:145:6:dequantize	2

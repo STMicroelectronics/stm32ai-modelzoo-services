@@ -1,0 +1,10 @@
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:679:22:LL_MEM_EnableClock	1
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:785:22:LL_MEM_EnableClockLowPower	1
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2065:22:LL_AHB5_GRP1_EnableClockLowPower	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:518:13:SystemClock_Config	4
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:148:5:main	22
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:379:6:IAC_IRQHandler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:491:19:MX_DCMIPP_ClockConfig	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:623:6:HAL_CACHEAXI_MspInit	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:631:6:HAL_CACHEAXI_MspDeInit	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:647:6:assert_failed	1

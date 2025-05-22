@@ -1,0 +1,12 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:30:6:NMI_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:39:6:HardFault_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:52:6:MemManage_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:65:6:BusFault_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:78:6:UsageFault_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:91:6:SecureFault_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:104:6:SVC_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:113:6:DebugMon_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:125:6:PendSV_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:137:6:SysTick_Handler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:148:6:CSI_IRQHandler	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/stm32n6xx_it.c:154:6:DCMIPP_IRQHandler	1

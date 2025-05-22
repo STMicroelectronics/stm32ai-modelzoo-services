@@ -1,0 +1,11 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:50:9:APS256XX_Read	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:100:9:APS256XX_Read_DMA	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:151:9:APS256XX_Write	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:202:9:APS256XX_Write_DMA	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:251:9:APS256XX_EnableMemoryMappedMode	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:310:9:APS256XX_ReadReg	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:356:9:APS256XX_WriteReg	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:404:9:APS256XX_ReadID	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:427:9:APS256XX_EnterPowerDown	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:447:9:APS256XX_LeavePowerDown	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:488:9:APS256XX_Reset	2

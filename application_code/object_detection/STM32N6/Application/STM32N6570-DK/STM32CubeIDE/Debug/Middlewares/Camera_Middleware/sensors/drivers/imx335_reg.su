@@ -1,0 +1,2 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/imx335/imx335_reg.c:45:9:imx335_read_reg	4	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/Camera_Middleware/sensors/imx335/imx335_reg.c:58:9:imx335_write_reg	4	static

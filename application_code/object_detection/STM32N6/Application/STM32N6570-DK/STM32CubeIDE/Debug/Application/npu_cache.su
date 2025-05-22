@@ -1,0 +1,7 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:23:6:npu_cache_init	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:29:6:npu_cache_enable	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:40:6:npu_cache_disable	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:49:6:npu_cache_invalidate	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:54:6:npu_cache_clean_range	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:59:6:npu_cache_clean_invalidate_range	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/npu_cache.c:64:6:NPU_CACHE_IRQHandler	0	static,ignoring_inline_asm

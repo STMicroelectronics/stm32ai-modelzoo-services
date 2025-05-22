@@ -1,0 +1,6 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/od_pp_yolov2.c:19:9:yolov2_nms_comparator	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/od_pp_yolov2.c:33:9:yolov2_pp_nmsFiltering_centroid	56	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/od_pp_yolov2.c:80:9:yolov2_pp_scoreFiltering_centroid	48	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/od_pp_yolov2.c:119:9:yolov2_pp_getNNBoxes_centroid	96	dynamic
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/od_pp_yolov2.c:191:9:od_yolov2_pp_reset	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/lib_vision_models_pp/lib_vision_models_pp/Src/od_pp_yolov2.c:200:9:od_yolov2_pp_process	16	static

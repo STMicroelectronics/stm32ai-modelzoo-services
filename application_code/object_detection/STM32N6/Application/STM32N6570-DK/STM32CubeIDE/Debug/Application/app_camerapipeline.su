@@ -1,0 +1,7 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:121:6:CameraPipeline_Init	96	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:139:6:CameraPipeline_DeInit	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:146:6:CameraPipeline_DisplayPipe_Start	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:153:6:CameraPipeline_NNPipe_Start	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:161:6:CameraPipeline_DisplayPipe_Stop	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:168:6:CameraPipeline_IspUpdate	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/STM32N6570-DK/Src/app_camerapipeline.c:180:5:CMW_CAMERA_PIPE_FrameEventCallback	0	static

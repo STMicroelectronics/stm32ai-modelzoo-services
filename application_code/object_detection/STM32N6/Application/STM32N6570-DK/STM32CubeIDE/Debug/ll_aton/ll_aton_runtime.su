@@ -1,0 +1,17 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:301:20:__LL_ATON_RT_Init_Network	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.h:63:22:__ll_clear_aton_owner	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.h:113:22:__LL_ATON_RT_SetWaitMask	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_NN_interface.h:557:26:EpochBlock_EpochControllerUnit	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:183:20:__LL_ATON_RT_ExecEndEpochBlock	24	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:246:13:__LL_ATON_RT_DetermineNextEpochBlock	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:51:19:dump_dma_state	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:748:13:__LL_ATON_RT_IrqErr	16	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:367:6:LL_ATON_RT_SetRuntimeCallback	0	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:385:6:LL_ATON_RT_SetEpochCallback	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:395:6:LL_ATON_RT_Init_Network	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:436:6:LL_ATON_RT_DeInit_Network	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:485:6:LL_ATON_RT_Reset_Network	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:494:6:LL_ATON_RT_RuntimeInit	8	static,ignoring_inline_asm
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:542:6:LL_ATON_RT_RuntimeDeInit	8	static,ignoring_inline_asm
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:574:24:LL_ATON_RT_RunEpochBlock	24	static,ignoring_inline_asm
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_aton_runtime.c:931:6:NPU0_IRQHandler	24	static,ignoring_inline_asm

@@ -1,0 +1,11 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:50:9:APS256XX_Read	104	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:100:9:APS256XX_Read_DMA	104	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:151:9:APS256XX_Write	104	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:202:9:APS256XX_Write_DMA	104	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:251:9:APS256XX_EnableMemoryMappedMode	120	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:310:9:APS256XX_ReadReg	104	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:356:9:APS256XX_WriteReg	104	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:404:9:APS256XX_ReadID	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:427:9:APS256XX_EnterPowerDown	8	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:447:9:APS256XX_LeavePowerDown	88	static
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/STM32Cube_FW_N6/Drivers/BSP/Components/aps256xx/aps256xx.c:488:9:APS256XX_Reset	88	static

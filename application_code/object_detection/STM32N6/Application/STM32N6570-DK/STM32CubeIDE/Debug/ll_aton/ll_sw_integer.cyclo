@@ -1,0 +1,12 @@
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:67:6:ll_sw_forward_qlinearmatmul	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:182:6:ll_sw_forward_gemm_integer	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:293:6:ll_sw_forward_quantizelinear	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:340:6:ll_sw_forward_dequantizelinear	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:389:6:ll_sw_forward_requantizelinear	1
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:449:6:ll_sw_forward_conv_integer	7
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:632:6:ll_sw_forward_eltwise_integer	5
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:753:6:ll_sw_forward_pool_integer	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:837:6:ll_sw_forward_global_pool_integer	3
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:919:6:ll_sw_forward_softmax_integer	2
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:993:6:ll_sw_forward_activ_integer	5
+/Users/faizandarsot/spotwatchllc/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/AI_Runtime/Npu/ll_aton/ll_sw_integer.c:1131:6:ll_sw_forward_resize_integer	5
