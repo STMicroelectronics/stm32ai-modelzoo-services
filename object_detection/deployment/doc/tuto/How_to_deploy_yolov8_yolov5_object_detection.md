@@ -54,7 +54,11 @@ Please refer to [https://github.com/ultralytics/ultralytics](https://github.com/
 To export the model as int8 tflite, let's take the default example of a model trained on COCO dataset using Ultralytics CLI:
 
 ```
-	yolo export model=yolov8n.pt format=tflite imgsz=256  int8=True
+model.export(
+    format="tflite",
+    imgsz=256,
+    int8=True
+)
 ```
 
 Where yolov8n.pt is the trained weights, the output format is specified as tflite, int8=True means the model will be quantized using 8-bits signed for the weights and the activations.  
