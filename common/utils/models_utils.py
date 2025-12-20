@@ -9,7 +9,6 @@
 
 import os
 from tabulate import tabulate
-from keras.utils.layer_utils import count_params
 from typing import Dict, Optional, Tuple, List
 import tensorflow as tf
 from tensorflow.keras.models import Model
@@ -20,6 +19,7 @@ from onnx import ModelProto
 import onnxruntime
 import mlflow
 from common.utils import log_to_file
+from tensorflow.keras import backend as K
 
 
 def ai_interp_input_quant(ai_interp, data: np.array, data_scale: float, data_offset: float, file_extension: str):
@@ -286,7 +286,11 @@ def model_summary(model):
         if layer_type == "InputLayer":
             layer_shape = model.input.shape
         else:
-            layer_shape = layer.output_shape
+            if hasattr(layer, 'output') and hasattr(layer.output, 'shape'):
+                layer_shape = layer.output.shape
+            else:
+                layer_shape = 'Not available'
+
         is_trainable = True if layer.trainable else False
         num_params = layer.count_params()
         if layer.trainable:
@@ -300,8 +304,8 @@ def model_summary(model):
     print(tabulate(table, headers=["Layer index", "Trainable", "Name", "Type", "Params#", "Output shape"]))
     print(108 * '-')
     print("Total params:", model.count_params())
-    print("Trainable params: ", count_params(model.trainable_weights))
-    print("Non-trainable params: ", count_params(model.non_trainable_weights))
+    print("Trainable params: ", sum([K.count_params(w) for w in model.trainable_weights]))
+    print("Non-trainable params: ", sum([K.count_params(w) for w in model.non_trainable_weights]))
     print(108 * '-')
     print("Total layers:", num_layers)
     print("Trainable layers:", trainable_layers)

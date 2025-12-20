@@ -10,8 +10,26 @@
 
 import tensorflow as tf
 from tensorflow import keras
-from keras.applications import imagenet_utils
 from tensorflow.keras import layers
+from tensorflow.keras import backend as K
+
+def correct_pad(inputs, kernel_size):
+    """Returns a tuple for zero-padding for 2D conv with 'same' padding."""
+    img_dim = 1 if K.image_data_format() == 'channels_first' else 2
+    input_size = K.int_shape(inputs)[img_dim:img_dim + 2]
+    if isinstance(kernel_size, int):
+        kernel_size = (kernel_size, kernel_size)
+    adjust = (1, 1)
+    correct = ((kernel_size[0] // 2, kernel_size[0] // 2),
+               (kernel_size[1] // 2, kernel_size[1] // 2))
+    if input_size[0] is not None and input_size[0] % 2 == 0:
+        correct = ((kernel_size[0] // 2 - 1, kernel_size[0] // 2),
+                   correct[1])
+    if input_size[1] is not None and input_size[1] % 2 == 0:
+        correct = (correct[0],
+                   (kernel_size[1] // 2 - 1, kernel_size[1] // 2))
+    return correct
+
 
 
 def _make_divisible(v, divisor, min_value=None):
@@ -60,7 +78,7 @@ def _inverted_res_block(inputs, expansion, stride, alpha, filters, block_id):
 
     """
     # Get the shape of the input tensor.
-    shape = inputs.get_shape().as_list()
+    shape = inputs.shape
     # Get the number of channels in the input tensor.
     in_channels = shape[-1]
     # Calculate the number of filters for the pointwise 1x1 convolution.
@@ -80,7 +98,7 @@ def _inverted_res_block(inputs, expansion, stride, alpha, filters, block_id):
     # Depthwise 3x3 convolution.
     if stride == 2:
         # If the stride is 2, pad the input tensor to maintain the same output size.
-        x = layers.ZeroPadding2D(padding=imagenet_utils.correct_pad(x, 3))(x)
+        x = layers.ZeroPadding2D(padding=correct_pad(x, 3))(x)
     # Perform the depthwise 3x3 convolution.
     x = layers.DepthwiseConv2D(kernel_size=3, strides=stride, use_bias=False,
                                padding='same' if stride == 1 else 'valid')(x)
