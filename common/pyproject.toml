@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stm32ai_dc"
+version = "4.1.1"
+description = "Python client for the STM32AI Developer Cloud"
+requires-python = ">=3.10"
+license = {file = "LICENSE.md"}
+dependencies = [
+    "requests>=2.28",
+    "marshmallow>=3.20",
+    "tqdm>=4.60",
+]
+
+[tool.setuptools.packages.find]
+where = [".."]
+include = ["common.stm32ai_dc*"]

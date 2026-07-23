@@ -7,8 +7,8 @@
 
 
 import logging
-from common.stm32ai_dc.errors import GenerateNbgFailure
-from common.stm32ai_dc.types import LOGGER_NAME
+from ...errors import GenerateNbgFailure
+from ...types import LOGGER_NAME
 from .helpers import send_get, send_post
 from .endpoints import get_generate_nbg_service_ep
 import time
