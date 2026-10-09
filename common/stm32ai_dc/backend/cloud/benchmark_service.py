@@ -8,10 +8,10 @@
 
 import json
 import typing
-from common.stm32ai_dc.backend.cloud.file_service import FileService
-from common.stm32ai_dc.errors import BenchmarkFailure, BenchmarkParameterError
-from common.stm32ai_dc.errors import ModelNotFoundError, WrongTypeError
-from common.stm32ai_dc.types import LOGGER_NAME, AtonParametersSchema, CliParameters, MpuParameters
+from .file_service import FileService
+from ...errors import BenchmarkFailure, BenchmarkParameterError
+from ...errors import ModelNotFoundError, WrongTypeError
+from ...types import LOGGER_NAME, AtonParametersSchema, CliParameters, MpuParameters
 from .helpers import send_get, send_post
 from .endpoints import get_benchmark_boards_ep, get_benchmark_openapi_ep
 from .endpoints import get_benchmark_service_ep
